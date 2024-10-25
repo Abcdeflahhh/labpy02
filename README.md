@@ -156,7 +156,7 @@ Jika gaji pengguna tidak lebih dari 3 juta, program akan mencetak "Gaji belum UM
 
 Hasil output
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/b21525682f138995596aa1dd4e62e4200541c0a5/Image/Screenshot%20From%202024-10-24%2021-31-55.png)
+![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/eb66051aa9192574a8065c05581c1e46c4a1207d/gaji.jpg)
 
 # Menggunakan kondisi or dengan menginputkan 3 bilangan
 ```Python
