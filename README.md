@@ -194,7 +194,7 @@ Hasil output
 # Latihan3
 # Program tiket bioskop
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/6942999a26dab6f76408be80cc7de75c5f8f5f05/Image/Screenshot%20From%202024-10-25%2007-25-48.png)
+![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/eb66051aa9192574a8065c05581c1e46c4a1207d/soal%20bioskop.jpg)
 
 ```python
 # Fungsi untuk menghitung harga tiket
