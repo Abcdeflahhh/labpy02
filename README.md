@@ -95,7 +95,7 @@ Fungsi `Print()` ini akan mencetak Variable-Variable program tersebut
 
 Hasil output
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/53a36e5b1616da396b3f5514538346e2759889ab/Image/Screenshot%20From%202024-10-24%2021-01-58.png)
+![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/6a5b07023b96e8b67b3eaa62138f4823f8d7c039/output%20uts.jpg)
 
 # Program menampilkan status gaji karyawan
 ```Python
