@@ -276,7 +276,7 @@ Setelah menghitung total harga, anda dapat langsung menjalankan fungsinya
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/0f98f3510cceada4aaa8bf575442a8458fc47d81/Image/Screenshot%20From%202024-10-25%2007-58-51.png)
+![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/eb66051aa9192574a8065c05581c1e46c4a1207d/hasil%20bioskop.jpg)
 
 Code program tersebut:
 
