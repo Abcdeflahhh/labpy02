@@ -191,6 +191,10 @@ Hasil output
 
 ![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/eb66051aa9192574a8065c05581c1e46c4a1207d/3%20bil.jpg)
 
+Flowchart codingan tersebut
+
+![gambar]https://github.com/Abcdeflahhh/foto-flowchart/blob/cb3b595e12cb13ed750694c02635de6fc3f1e136/Screenshot%202024-10-26%20051738.png
+
 # Latihan3
 # Program tiket bioskop
 
