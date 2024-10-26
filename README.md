@@ -284,4 +284,5 @@ Code program tersebut:
 
 Flowchart Program Tersebut:
 
-(https://github.com/Abcdeflahhh/foto-flowchart/blob/cb3b595e12cb13ed750694c02635de6fc3f1e136/tiket%20biskop.png) 
+![gambar](https://github.com/Abcdeflahhh/foto-flowchart/blob/cb3b595e12cb13ed750694c02635de6fc3f1e136/tiket%20biskop.png) 
+
